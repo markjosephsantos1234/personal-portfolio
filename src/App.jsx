@@ -80,7 +80,7 @@ function App() {
         <div className="services container">
           <div className="service-top">
             <h1 className="section-title">
-              Serv<span>i</span>ces
+              Sk<span>i</span>lls
             </h1>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum
@@ -236,8 +236,9 @@ function App() {
         <div className="about container">
           <div className="col-left">
             <div className="about-img">
-              <img src="./img/img-2.png" alt="img" />
+              <img src="./img/img-2.jpg" alt="img" />
             </div>
+            {/* ./img/img-2.png*/}
           </div>
           <div className="col-right">
             <h1 className="section-title">
@@ -275,8 +276,8 @@ function App() {
               </div>
               <div className="contact-info">
                 <h1>Phone</h1>
-                <h2>+92 300 835 5143</h2>
-                <h2>+1 234 123 1234</h2>
+                <h2>+63 961 740 0585</h2>
+                {/* <h2>+1 234 123 1234</h2> */}
               </div>
             </div>
             <div className="contact-item">
@@ -285,8 +286,8 @@ function App() {
               </div>
               <div className="contact-info">
                 <h1>Email</h1>
-                <h2>wajahat.webcog@gmail.com</h2>
-                <h2>abcd@gmail.com</h2>
+                <h2>josephmark.santos1234@gmail.com</h2>
+                {/* <h2>abcd@gmail.com</h2> */}
               </div>
             </div>
             <div className="contact-item">
@@ -295,7 +296,7 @@ function App() {
               </div>
               <div className="contact-info">
                 <h1>Address</h1>
-                <h2>Fatikchhari, Chittagong, Bangladesh</h2>
+                <h2>Palapat, Hagonoy, Bulacan</h2>
               </div>
             </div>
           </div>
@@ -307,31 +308,31 @@ function App() {
         <div className="footer container">
           <div className="brand">
             <h1>
-              <span>W</span>ajahat <span>M</span>urtaza
+              <span>M</span>ark Joseph <span>S</span>antos
             </h1>
           </div>
           <h2>Your Complete Web Solution</h2>
           <div className="social-icon">
             <div className="social-item">
-              <a href="#">
+              <a href="https://www.facebook.com/">
                 <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
               </a>
             </div>
             <div className="social-item">
-              <a href="#">
+              <a href="https://www.instagram.com/">
                 <img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" />
               </a>
             </div>
-            <div className="social-item">
+            {/* <div className="social-item">
               <a href="#">
                 <img src="https://img.icons8.com/bubbles/100/000000/twitter.png" />
               </a>
-            </div>
-            <div className="social-item">
+            </div> */}
+            {/* <div className="social-item">
               <a href="#">
                 <img src="https://img.icons8.com/bubbles/100/000000/behance.png" />
               </a>
-            </div>
+            </div> */}
           </div>
           <p>Copyright © 2020 Wajahat. All rights reserved</p>
         </div>
