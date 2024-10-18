@@ -31,7 +31,7 @@ function App() {
                 </li>
                 <li>
                   <a href="#services" data-after="Service">
-                    Services
+                    Skills
                   </a>
                 </li>
                 <li>
@@ -83,10 +83,11 @@ function App() {
               Sk<span>i</span>lls
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum
-              deleniti maiores pariatur assumenda quas magni et, doloribus quod
-              voluptate quasi molestiae magnam officiis dolorum, dolor provident
-              atque molestias voluptatum explicabo!
+              I have a solid foundation in web development, specializing in HTML and CSS to create 
+              responsive and user-friendly websites. I'm a strong team player with excellent 
+              collaboration skills, always contributing actively and listening attentively to ensure
+              smooth teamwork. My problem-solving abilities help me navigate challenges in web development, 
+              and I’m quick to adapt to new tools and technologies, allowing me to thrive in dynamic environments.
             </p>
           </div>
           <div className="service-bottom">
@@ -94,44 +95,41 @@ function App() {
               <div className="icon">
                 <img src="https://img.icons8.com/bubbles/100/000000/services.png" />
               </div>
-              <h2>Web Design</h2>
+              <h2>HTML & CSS</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-                debitis rerum, magni voluptatem sed architecto placeat beatae
-                tenetur officia quod
+                Proficient in developing well-structured, responsive, and visually appealing websites. 
+                Skilled in creating user-friendly designs that enhance user experience across various 
+                devices
               </p>
             </div>
             <div className="service-item">
               <div className="icon">
                 <img src="https://img.icons8.com/bubbles/100/000000/services.png" />
               </div>
-              <h2>Web Design</h2>
+              <h2>Team Collaboration</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-                debitis rerum, magni voluptatem sed architecto placeat beatae
-                tenetur officia quod
+                Experienced in working within diverse teams, fostering clear communication, and utilizing 
+                active listening to ensure that all members contribute effectively to shared project goals
               </p>
             </div>
             <div className="service-item">
               <div className="icon">
                 <img src="https://img.icons8.com/bubbles/100/000000/services.png" />
               </div>
-              <h2>Web Design</h2>
+              <h2>Problem-Solving</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-                debitis rerum, magni voluptatem sed architecto placeat beatae
-                tenetur officia quod
+                Adept at identifying and resolving technical challenges in web development, using analytical 
+                thinking to implement efficient solutions while minimizing disruptions to project timelines
               </p>
             </div>
             <div className="service-item">
               <div className="icon">
                 <img src="https://img.icons8.com/bubbles/100/000000/services.png" />
               </div>
-              <h2>Web Design</h2>
+              <h2>Adaptability</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-                debitis rerum, magni voluptatem sed architecto placeat beatae
-                tenetur officia quod
+                Quick to learn and integrate new technologies, continuously improving skills to stay current 
+                in the fast-evolving web development landscape. Flexible in meeting project demands
               </p>
             </div>
           </div>
@@ -150,36 +148,33 @@ function App() {
             <div className="project-item">
               <div className="project-info">
                 <h1>Project 1</h1>
-                <h2>Coding is Love</h2>
+                <h2>Personal Porfolio</h2>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad,
-                  iusto cupiditate voluptatum impedit unde rem ipsa distinctio illum
-                  quae mollitia ut, accusantium eius odio ducimus illo neque atque
-                  libero non sunt harum? Ipsum repellat animi, fugit architecto
-                  voluptatum odit et!
+                  "Designed and developed a personal portfolio website using html and css to showcase
+                  my web development skills. The site is optimized for performance
+                  and includes responsive design, ensuring a seamless user experience across devices."
                 </p>
               </div>
               <div className="project-img">
-                <img src="./img/img-1.png" alt="img" />
+                <img src="./img/profile.png" alt="img" />
               </div>
             </div>
             <div className="project-item">
               <div className="project-info">
                 <h1>Project 2</h1>
-                <h2>Coding is Love</h2>
+                <h2>Coffee Shop "Moon Cafe"</h2>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad,
-                  iusto cupiditate voluptatum impedit unde rem ipsa distinctio illum
-                  quae mollitia ut, accusantium eius odio ducimus illo neque atque
-                  libero non sunt harum? Ipsum repellat animi, fugit architecto
-                  voluptatum odit et!
+                  "Developed the Moon Café website with a focus on responsive web design, ensuring an 
+                  optimal viewing experience across all devices. The site features a clean, modern layout,
+                  intuitive navigation, and adaptive elements to enhance usability on both mobile and
+                  desktop platforms."
                 </p>
               </div>
               <div className="project-img">
-                <img src="./img/img-1.png" alt="img" />
+                <img src="./img/mooncafe.png" alt="img" />
               </div>
             </div>
-            <div className="project-item">
+            {/* <div className="project-item">
               <div className="project-info">
                 <h1>Project 3</h1>
                 <h2>Coding is Love</h2>
@@ -226,7 +221,7 @@ function App() {
               <div className="project-img">
                 <img src="./img/img-1.png" alt="img" />
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
@@ -246,15 +241,19 @@ function App() {
             </h1>
             <h2>Front End Developer</h2>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores,
-              velit alias eius non illum beatae atque repellat ratione qui veritatis
-              repudiandae adipisci maiores. At inventore necessitatibus deserunt
-              exercitationem cumque earum omnis ipsum rem accusantium quis, quas
-              quia, accusamus provident suscipit magni! Expedita sint ad dolore,
-              commodi labore nihil velit earum ducimus nulla quae nostrum fugit aut,
-              deserunt reprehenderit libero enim!
+              I’m a recent graduate from La Verdad Christian College, where I earned my degree in
+              Associate in Computer Technology (ACT). I have a strong foundation in web development,
+              particularly in HTML and CSS, and I’m passionate about building clean and responsive websites.
+              Collaboration is one of my key strengths—I thrive in team environments and am always ready to 
+              contribute with my active listening skills. I believe that working closely with others leads to the best results.
+              Outside of tech, I’m a huge fan of physical activities, especially basketball, and enjoy spending
+              time outdoors. Whether I’m working on a project or playing a game, I’m all about giving my best 
+              effort and staying active.
             </p>
-            <a href="#" className="cta">
+            {/* <a href="" className="cta">
+              Download Resume
+            </a> */}
+            <a href="./img/Resume.pdf" className="cta" download>
               Download Resume
             </a>
           </div>
